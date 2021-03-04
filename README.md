@@ -19,4 +19,4 @@ int main() {
 }
 ```
 
-The above example outputs the length of the array in the console.
+The above example outputs the length of the array into the console.
